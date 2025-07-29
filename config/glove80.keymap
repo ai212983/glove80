@@ -186,7 +186,7 @@ L_MODMORPH(gra_til, &kp GRAVE, &kp TILDE)
 // ├──────┼────────┼────────┼────────┼─────────┼────────┤                                              ├───────────┼───────────┼─[ ( ]──────┼─[ ) ]──────┼─[ * ]─────┼──────────┤
    &trans &none    &none    &kp PLUS &kp MINUS &kp EQUAL                                               &kp PRV_TAB &kp NXT_TAB &kp LS(N9)   &kp LS(N0)   &kp LS(N8)  &kp APP_SWT
 // ├──────┼────────┼────────┼────────┼─────────┼────────┤ ╭──────┬──────┬─────╮  ╭──────┬──────┬─────╮ ├───────────┼───────────┼─[ { ]──────┼─[ } ]──────┼───────────┼──────────┤
-   &trans &none    &none    &none    &kp UNDER &none      &trans &trans &trans   &none  &trans &trans  &kp AMPS    &kp none    &kp LS(LBKT) &kp LS(RBKT) &none       &kp MSN_CTL
+   &trans &none    &none    &none    &kp UNDER &none      &trans &trans &trans   &none  &trans &trans  &kp AMPS    &kp GRAVE   &kp LS(LBKT) &kp LS(RBKT) &none       &kp MSN_CTL
 // ├──────┼────────┼────────┼────────┼─────────┼────────╯ ├──────┼──────┼─────┤  ├──────┼──────┼─────┤ ╰───────────┼───────────┼────────────┼────────────┼───────────┼──────────┤
    &trans &none    &none    &trans   &trans               &trans &trans &trans   &trans &trans &trans              &trans      &trans       &none        &none       &none
 // ╰──────┴────────┴────────┴────────┴─────────╯          ╰──────┴──────┴─────╯  ╰──────┴──────┴─────╯             ╰───────────┴────────────┴────────────┴───────────┴──────────╯
